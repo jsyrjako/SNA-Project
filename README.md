@@ -15,7 +15,6 @@ The large scale Twitter friendship dataset available at [Twitter Friends (kaggle
 This datasets is an extract of a wider database aimed at collecting Twitter user's friends (other accound one follows). The global goal is to study user's interest thru who they follow and connection to the hashtag they've used.
 
 The data contains the following columns:
-The data contains the following columns:
 - avatar: URL to the profile picture
 - followerCount: the number of followers of this user
 - friendsCount: the number of people following this user
