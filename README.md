@@ -1,8 +1,17 @@
 # SNA-Project
 
 
+# Group information
+
+| Name             | Student ID | Email                      |
+| ---------------- | ---------- | -------------------------- |
+| Janne Yrjänäinen | Y58554010  | jyrjanai20@student.oulu.fi |
+| Joona Syrjäkoski | Y58172266  | jsyrjako20@student.oulu.fi |
+
 ## Project Description
 Twitter Friendship Network Analysis
+
+The project aims to analyze the Twitter friendship network.
 
 
 
